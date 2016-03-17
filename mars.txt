@@ -4,5 +4,9 @@ I forgot to say something, but I don't remember what it is
 Ah yes I remember, I wanted to say it has an atmosphere
 But at least it's a planet, unlike Pluto
 Oh well
+<<<<<<< HEAD
 No active volcanoes for Lava Girl
 Romantic canal rides
+=======
+
+>>>>>>> parent of f4f1173... Added problem for Lava Girl
